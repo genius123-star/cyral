@@ -107,3 +107,7 @@ cargo test --manifest-path src-tauri/Cargo.toml
 ```
 
 许可证和角色素材再分发授权以正式发布版本附带的许可文件为准。首次公开前，请按 [GitHub 上传清单](docs/GITHUB_RELEASE_CHECKLIST.md)核验授权、公开文件和安装包。
+
+## 目前的问题
+
+我原本想丰富Cyral的动画的，但是出现了一些原因不知道为什么资料库中的帧动画图片无法被尽数播放，希望通过大家的力量进行解决
