@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Default permissions for the Cyral pet window","local":true,"windows":["pet","panel"],"permissions":["core:default","core:window:allow-hide","core:window:allow-show","core:window:allow-start-dragging"]}}

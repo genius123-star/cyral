@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "actions": [
+    {
+      "action": "idle-blink",
+      "strip": "/assets/characters/cyral/idle-blink-row-v1.png",
+      "frames": 4,
+      "frameWidth": 180,
+      "frameHeight": 226,
+      "durationMs": 1000,
+      "loop": true
+    },
+    {
+      "action": "walk-a",
+      "strip": "/assets/characters/cyral/walk-1-strip.png",
+      "frames": 2,
+      "frameWidth": 180,
+      "frameHeight": 226,
+      "durationMs": 700,
+      "loop": true,
+      "required": true
+    },
+    {
+      "action": "walk-b",
+      "strip": "/assets/characters/cyral/walk-2-strip.png",
+      "frames": 2,
+      "frameWidth": 180,
+      "frameHeight": 226,
+      "durationMs": 700,
+      "loop": true,
+      "required": true
+    },
+    {
+      "action": "compact",
+      "strip": "/assets/characters/cyral/compact.png",
+      "frames": 4,
+      "frameWidth": 64,
+      "frameHeight": 64,
+      "durationMs": 1600,
+      "loop": true
+    },
+    {
+      "action": "enter",
+      "strip": "/assets/characters/cyral/enter-row.png",
+      "frames": 6,
+      "frameWidth": 180,
+      "frameHeight": 226,
+      "durationMs": 1800,
+      "loop": false
+    },
+    {
+      "action": "exit",
+      "strip": "/assets/characters/cyral/exit-row.png",
+      "frames": 6,
+      "frameWidth": 180,
+      "frameHeight": 226,
+      "durationMs": 1800,
+      "loop": false
+    },
+    {
+      "action": "peek-left",
+      "strip": "/assets/characters/cyral/peek-left.png",
+      "frames": 3,
+      "frameWidth": 180,
+      "frameHeight": 226,
+      "durationMs": 900,
+      "loop": false
+    },
+    {
+      "action": "peek-right",
+      "strip": "/assets/characters/cyral/peek-right.png",
+      "frames": 3,
+      "frameWidth": 180,
+      "frameHeight": 226,
+      "durationMs": 900,
+      "loop": false
+    },
+    {
+      "action": "peek-bottom",
+      "strip": "/assets/characters/cyral/peek-bottom.png",
+      "frames": 3,
+      "frameWidth": 180,
+      "frameHeight": 226,
+      "durationMs": 900,
+      "loop": false
+    },
+    {
+      "action": "peek-top",
+      "strip": "/assets/characters/cyral/peek-top.png",
+      "frames": 3,
+      "frameWidth": 180,
+      "frameHeight": 226,
+      "durationMs": 900,
+      "loop": false
+    }
+  ]
+}
